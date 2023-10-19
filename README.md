@@ -23,7 +23,7 @@ I'm Luca Manzi, a computer scientist who's always curious and ever-driven to div
 ## 🛠 Technologies & Tools: The ones I love to work with
 
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-red?style=flat&logo=rust)
+![Rust](https://img.shields.io/badge/-Rust-23000000?style=flat&logo=rust)
 ![Python](https://img.shields.io/badge/Python-%23CC342D?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell)
