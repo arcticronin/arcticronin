@@ -79,6 +79,8 @@ I'm Luca Manzi, a computer scientist who's always curious and ever-driven to div
 <!-- Profile Views -->
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arcticronin&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arcticronin&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
-
+</p>
+<br>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arcticronin&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 </p>
