@@ -2,6 +2,10 @@
 
 I'm Luca Manzi, a computer scientist who's always curious and ever-driven to dive deep into the world of technology.
 
+I truly love challenges and starting new projects, even more from scratch.
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/0lGd2OXXHe4tFhb7Wh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-internet-bard-chatgpt-0lGd2OXXHe4tFhb7Wh">via GIPHY</a></p>
+
 ## 🎓 Education
 
 - **Bachelor's in Computer Science**  
@@ -12,7 +16,7 @@ I'm Luca Manzi, a computer scientist who's always curious and ever-driven to div
 
 ## 💡 Interests
 
-- **Artificial Intelligence**: Harnessing the power of machines to replicate and enhance human intelligence.
+- **Machine and Statistical Learning**: Data never lies! 
 - **Quantum Computing**: Venturing into the quantum realm to unveil next-gen computational capabilities.
 
 ## 🤝 Let's Connect
@@ -86,6 +90,10 @@ I'm Luca Manzi, a computer scientist who's always curious and ever-driven to div
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
+
+<p>
+  <br><br>
+</p>
 
 
 
