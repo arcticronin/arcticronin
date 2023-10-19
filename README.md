@@ -22,7 +22,7 @@ I'm [Your Name], a computer scientist who's always curious and ever-driven to di
 - [LinkedIn](Your_LinkedIn_Profile_Link)
 - [Twitter](Your_Twitter_Profile_Link)
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_border=true)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=arcticronin&show_icons=true&hide_border=true)
 ## 🛠 Technologies & Tools
 
 ### The one I love to work with:
@@ -34,7 +34,7 @@ I'm [Your Name], a computer scientist who's always curious and ever-driven to di
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-### As self taught
+### As self-taught
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
@@ -48,3 +48,4 @@ I'm [Your Name], a computer scientist who's always curious and ever-driven to di
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+
