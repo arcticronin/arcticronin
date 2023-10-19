@@ -20,7 +20,6 @@ I'm Luca Manzi, a computer scientist who's always curious and ever-driven to div
 - [LinkedIn](Your_LinkedIn_Profile_Link)
 - [Twitter](Your_Twitter_Profile_Link)
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=arcticronin&show_icons=true&hide_border=true)
 ## 🛠 Technologies & Tools: The ones I love to work with
 
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white)
@@ -33,10 +32,10 @@ I'm Luca Manzi, a computer scientist who's always curious and ever-driven to div
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white)
+
 <p>
   <br><br>
 </p>
----
 
 ### Some as self-taught
 
@@ -46,14 +45,6 @@ I'm Luca Manzi, a computer scientist who's always curious and ever-driven to div
 ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart)
-
-### As academic purposes:
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
-![Lisp](https://img.shields.io/badge/-Lisp-3E8687?style=flat&logo=lisp)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Prolog](https://img.shields.io/badge/-Prolog-7E354D?style=flat)
-![NetLogo](https://img.shields.io/badge/-NetLogo-FF7F00?style=flat)
-
 
 ### Some other Frameworks
 
@@ -80,6 +71,15 @@ I'm Luca Manzi, a computer scientist who's always curious and ever-driven to div
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
+### As academic purposes:
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
+![Lisp](https://img.shields.io/badge/-Lisp-3E8687?style=flat&logo=lisp)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Prolog](https://img.shields.io/badge/-Prolog-7E354D?style=flat)
+![NetLogo](https://img.shields.io/badge/-NetLogo-FF7F00?style=flat)
+
+
+![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=arcticronin&show_icons=true&hide_border=true)
 <!-- language -->
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arcticronin&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
