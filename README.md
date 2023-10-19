@@ -33,17 +33,19 @@ I'm Luca Manzi, a computer scientist who's always curious and ever-driven to div
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white)
+<p>
+  <br><br>
+</p>
+---
 
 ### Some as self-taught
 
-![Bun](https://img.shields.io/badge/Bun%20-%23FA0F00.svg?&style=flat&logo=Bun&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
 
 ### As academic purposes:
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
@@ -55,6 +57,8 @@ I'm Luca Manzi, a computer scientist who's always curious and ever-driven to div
 
 ### Some other Frameworks
 
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
+![Bun](https://img.shields.io/badge/Bun%20-%23FA0F00.svg?&style=flat&logo=Bun&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![Flux.jl](https://img.shields.io/badge/-Flux.jl-9558B2?style=flat&logo=julia&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23E4405F.svg?style=flat&logo=pandas&logoColor=white)
