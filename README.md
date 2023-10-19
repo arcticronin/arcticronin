@@ -25,8 +25,8 @@ I'm Luca Manzi, a computer scientist who's always curious and ever-driven to div
 
 ### The one I love to work with:
 
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia)
-![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=rust)
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-red?style=flat&logo=rust)
 ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell)
 ![Zig](https://img.shields.io/badge/-Zig-EC4A3F?style=flat&logo=zig)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
