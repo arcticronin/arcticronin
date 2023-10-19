@@ -1,16 +1,14 @@
 # Hello, world! 🌍
 
-I'm [Your Name], a computer scientist who's always curious and ever-driven to dive deep into the world of technology.
+I'm Luca Manzi, a computer scientist who's always curious and ever-driven to dive deep into the world of technology.
 
 ## 🎓 Education
 
 - **Bachelor's in Computer Science**  
-  🏫 Bicocca University  
-  📅 [Starting Year] - [Graduation Year]  
+  🏫 Bicocca University
 
 - **Master's in Artificial Intelligence & Quantum Computing**  
-  🏫 [University Name (if different from Bicocca)]  
-  📅 [Starting Year] - [Expected Graduation Year]  
+  🏫 Unimi - Unipv - UniMiB
 
 ## 💡 Interests
 
