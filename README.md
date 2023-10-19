@@ -4,7 +4,9 @@ I'm Luca Manzi, a computer scientist who's always curious and ever-driven to div
 
 I truly love challenges and starting new projects, even more from scratch.
 
-<p><div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/0lGd2OXXHe4tFhb7Wh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-internet-bard-chatgpt-0lGd2OXXHe4tFhb7Wh">via GIPHY</a></p>
+<!-- code gif-->
+<img align="right" alt="GIF" src="./giphy.gif" width="400" />
+
 
 ## 🎓 Education
 
