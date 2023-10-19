@@ -23,8 +23,7 @@ I'm Luca Manzi, a computer scientist who's always curious and ever-driven to div
 ## 🛠 Technologies & Tools: The ones I love to work with
 
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=rust)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=Rust)
 ![Python](https://img.shields.io/badge/Python-%23CC342D?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell)
@@ -54,8 +53,8 @@ I'm Luca Manzi, a computer scientist who's always curious and ever-driven to div
 ![Bun](https://img.shields.io/badge/Bun%20-%23FA0F00.svg?&style=flat&logo=Bun&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![Flux.jl](https://img.shields.io/badge/-Flux.jl-9558B2?style=flat&logo=julia&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23E4405F.svg?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23E4405F.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white)
 
 ### Editors & Tools
@@ -78,8 +77,8 @@ I'm Luca Manzi, a computer scientist who's always curious and ever-driven to div
 ### As academic purposes:
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 ![Lisp](https://img.shields.io/badge/-Lisp-3E8687?style=flat&logo=lisp)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flate&logo=php&logoColor=white)
 ![Prolog](https://img.shields.io/badge/-Prolog-7E354D?style=flat)
 ![NetLogo](https://img.shields.io/badge/-NetLogo-FF7F00?style=flat)
 
