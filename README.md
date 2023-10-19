@@ -32,7 +32,6 @@ I'm Luca Manzi, a computer scientist who's always curious and ever-driven to div
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 <p>
   <br><br>
 </p>
@@ -66,7 +65,6 @@ I'm Luca Manzi, a computer scientist who's always curious and ever-driven to div
 ![Emacs](https://img.shields.io/badge/-Emacs-7F5AB6?style=flat&logo=gnu-emacs&logoColor=white)
 ![Pluto](https://img.shields.io/badge/-Pluto-9558B2?style=flat&logo=julia&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white)
-
 ### Others
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -81,6 +79,14 @@ I'm Luca Manzi, a computer scientist who's always curious and ever-driven to div
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flate&logo=php&logoColor=white)
 ![Prolog](https://img.shields.io/badge/-Prolog-7E354D?style=flat)
 ![NetLogo](https://img.shields.io/badge/-NetLogo-FF7F00?style=flat)
+
+### How I stay organized
+
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat&logo=obsidian&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
+
 
 
 ![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=arcticronin&show_icons=true&hide_border=true)
