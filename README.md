@@ -32,10 +32,7 @@ I'm [Your Name], a computer scientist who's always curious and ever-driven to di
 ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell)
 ![Zig](https://img.shields.io/badge/-Zig-EC4A3F?style=flat&logo=zig)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
-[Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![SQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 
 ### As self taught
 
@@ -48,5 +45,6 @@ I'm [Your Name], a computer scientist who's always curious and ever-driven to di
 
 ### For academic purposes:
 ![Lisp](https://img.shields.io/badge/-Lisp-3E8687?style=flat&logo=lisp)
-
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
