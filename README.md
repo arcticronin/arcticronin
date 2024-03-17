@@ -5,7 +5,7 @@ I'm Luca Manzi, a computer scientist who's always curious and ever-driven to div
 I truly love challenges and starting new projects, even more from scratch.
 
 <!-- code gif-->
-<img align="right" alt="GIF" src="./giphy.gif" width="200" />
+<!-- <img align="right" alt="GIF" src="./giphy.gif" width="200" /> -->
 
 
 ## 🎓 Education
