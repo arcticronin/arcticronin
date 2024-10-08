@@ -13,12 +13,13 @@ I truly love challenges and starting new projects, even more from scratch.
 - **Bachelor's in Computer Science**  
   🏫 Bicocca University
 
-- **Master's in Artificial Intelligence & Quantum Computing**  
+- **Master's in Artificial Intelligence: Quantum Computers and Complex Systems**  
   🏫 Unimi - Unipv - UniMiB
 
 ## 💡 Interests
 
-- **Machine and Statistical Learning**: Data never lies! 
+- **Machine and Statistical Learning**: Data never lies!
+- **Statistical Mechanics**
 - **Quantum Computing**: Venturing into the quantum realm to unveil next-gen computational capabilities.
 
 ## 🤝 Let's Connect
