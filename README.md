@@ -1,6 +1,7 @@
 # Hello, world! 🌍
 
-I'm Luca Manzi, a computer scientist who's always curious and ever-driven to dive deep into the world of technology.
+I'm Luca Manzi, i'm fascinated byt the elegance of math and quantum mechanics,
+curious and ever-driven to dive deep into the world of technology.
 
 I truly love challenges and starting new projects, even more from scratch.
 
@@ -20,7 +21,7 @@ I truly love challenges and starting new projects, even more from scratch.
 
 - **Machine and Statistical Learning**: Data never lies!
 - **Statistical Mechanics**
-- **Quantum Computing**: Venturing into the quantum realm to unveil next-gen computational capabilities.
+- **Quantum Computing**: Venturing into the quantum realm to unveil next-gen computational capabilities.\
 
 ## 🤝 Let's Connect
 
